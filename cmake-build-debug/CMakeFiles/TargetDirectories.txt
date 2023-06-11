@@ -1,3 +1,0 @@
-C:/Users/WangDake/CLionProjects/CH3forC/cmake-build-debug/CMakeFiles/CH3forC.dir
-C:/Users/WangDake/CLionProjects/CH3forC/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/WangDake/CLionProjects/CH3forC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
