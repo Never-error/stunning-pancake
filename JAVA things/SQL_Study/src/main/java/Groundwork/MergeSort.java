@@ -41,4 +41,8 @@ public class MergeSort {
 
     }
 
+    private void merge(int[] array, int len) {
+        System.out.println("hello");
+    }
+
 }
